@@ -14,4 +14,8 @@
 
     <project remote="github" name="madmax7896/device_xiaomi_munch-miuicamera" revision="topaz" path="device/xiaomi/munch-miuicamera"/>
     <project remote="gitlab" name="reloadedcaf/vendor_xiaomi_munch-miuicamera" revision="t" path="vendor/xiaomi/munch-miuicamera"/>
+
+    <project remote="gitlab" name="MindTheGapps/vendor_gapps" revision="tau" path="vendor/gapps" />
+
+    <project remote="gitlab" name="deka-android/device-blobs/vendor_xiaomi_munch-firmware" revision="thirteen-global" path="vendor/xiaomi/munch-firmware" />
 </manifest>
