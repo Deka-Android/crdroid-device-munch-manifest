@@ -9,8 +9,8 @@
     <project remote="github" name="Deka-Android/android_hardware_xiaomi" revision="lineage-20" path="hardware/xiaomi"/>
 
 
-    <project remote="gitlab" name="madmax7896/android_vendor_xiaomi_munch" revision="arrow-13.0" path="vendor/xiaomi/munch" />
-    <project remote="gitlab" name="madmax7896/android_vendor_xiaomi_sm8250-common" revision="arrow-13.0" path="vendor/xiaomi/sm8250-common" />
+    <project remote="gitlab" name="deka-android/device-blobs/android_vendor_xiaomi_munch" revision="lineage-20" path="vendor/xiaomi/munch" />
+    <project remote="gitlab" name="deka-android/device-blobs/android_vendor_xiaomi_sm8250-common" revision="lineage-20" path="vendor/xiaomi/sm8250-common" />
 
     <project remote="github" name="madmax7896/device_xiaomi_munch-miuicamera" revision="topaz" path="device/xiaomi/munch-miuicamera"/>
     <project remote="gitlab" name="reloadedcaf/vendor_xiaomi_munch-miuicamera" revision="t" path="vendor/xiaomi/munch-miuicamera"/>
